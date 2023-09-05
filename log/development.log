@@ -76,3 +76,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 536ms (Views: 117.7ms | ActiveRecord: 0.0ms | Allocations: 3021)
 
 
+Started GET "/" for 127.0.0.1 at 2023-09-05 13:36:49 +0330
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.4ms | Allocations: 272)
+Completed 200 OK in 61ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 906)
+
+

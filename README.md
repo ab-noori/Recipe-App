@@ -67,19 +67,21 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Setup and controllers]**
-- **[Controllers specs]**
-- **[Creating a data model]**
-- **[Processing data in models]**
-- **[Views and forms]**
-- **[Validations, Model specs, and n+1 problems]**
-- **[Add Devise and authorization rules]**
-- **[Integration specs for Views]**
-- **[API documentation]**
+- **[Design the Application]**
+- **[Login page and registration page]**
+- **[Authentication]**
+- **[Navigation menu]**
+- **[General Shopping List]**
+- **[Food list]**
+- **[Recipes list]**
+- **[Recipe details]**
+- **[Public recipe list]**
+- **[Unit and integration tests]**
+- **[RSpec and Capybara testing]**
 
 | Implemented Schema's ERD |
 |---------------------------------------|
-|<div align="center"><img src="" alt="screenshot" width="auto" height="auto"/></div>|
+|![recipe_erd_2_members](https://github.com/baqar-abbas/recipe-app-capstone/assets/111179533/2200fd17-a5f5-4b47-895d-abc5e05f132f)|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +108,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ab-noori/Blog-App.git
+  https://github.com/baqar-abbas/recipe-app-capstone.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,12 +160,10 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Processing data in models]**
-- [ ] **[Views and forms]**
-- [ ] **[Validations, Model specs, and n+1 problems]**
-- [ ] **[Add Devise and authorization rules]**
-- [ ] **[Integration specs for Views]**
-- [ ] **[API documentation]**
+- [ ] **[Inventories list]**
+- [ ] **[Inventory details]**
+- [ ] **[Recipe details]**
+- [ ] **[Inventory shopping list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +173,7 @@ To run tests, run the following command:
 
   Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the [issues page](https://github.com/ab-noori/Blog-App/issues).
+  Feel free to check the [issues page](https://github.com/baqar-abbas/recipe-app-capstone/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

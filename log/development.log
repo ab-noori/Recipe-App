@@ -69,3 +69,10 @@ puma (5.6.7) lib/puma/server.rb:443:in `process_client'
 puma (5.6.7) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
   [1m[35m (1971.0ms)[0m  [1m[35mCREATE DATABASE "Recipe_App_development" ENCODING = 'unicode'[0m
   [1m[35m (861.2ms)[0m  [1m[35mCREATE DATABASE "Recipe_App_test" ENCODING = 'unicode'[0m
+Started GET "/" for 127.0.0.1 at 2023-09-05 12:56:29 +0330
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 113.9ms | Allocations: 286)
+Completed 200 OK in 536ms (Views: 117.7ms | ActiveRecord: 0.0ms | Allocations: 3021)
+
+

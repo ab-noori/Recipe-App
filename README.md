@@ -1,23 +1,38 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> # Recipe Application
 
-Things you may want to cover:
+| Project Login Page |
+|---------------------------------------|
+|<div align="center"><img src="" alt="screenshot" width="auto" height="auto"/></div>|
 
-* Ruby version
 
-* System dependencies
+<a name="readme-top"></a>
 
-* Configuration
+<!-- TABLE OF CONTENTS -->
 
-* Database creation
+# 📗 Table of Contents
 
-* Database initialization
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-* How to run the test suite
+<!-- PROJECT DESCRIPTION -->
 
-* Services (job queues, cache servers, search engines, etc.)
+# 📖 [Recipe Application] <a name="about-project"></a>
 
 > **[Recipe-App]** The Recipe app keeps track of all your recipes, ingredients, and inventory. It allows you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 ## 🛠 Built With <a name="built-with"></a>
@@ -185,4 +200,3 @@ This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-* ...
